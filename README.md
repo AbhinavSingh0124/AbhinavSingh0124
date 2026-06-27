@@ -18,4 +18,8 @@ I am a Computer Science Engineering student passionate about Artificial Intellig
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AbhinavSingh0124&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+Leetcode 
+<a href="https://www.leetcode.com/adityaabhinav2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityaabhinav2002" height="30" width="40" /></a>
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
