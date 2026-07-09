@@ -17,3 +17,6 @@ I am a Computer Science Engineering student passionate about Artificial Intellig
 ![](https://streak-stats.demolab.com/?user=AbhinavSingh0124&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AbhinavSingh0124&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+- Mario
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
