@@ -5,21 +5,6 @@
 # 💫 About Me:
 I am a Computer Science Engineering student passionate about Artificial Intelligence, Machine Learning, Cloud Computing, Cybersecurity, and Software Development. I build intelligent solutions and continuously explore emerging technologies.<br><br><br>
 
- █████╗ ██████╗ ██╗  ██╗██╗███╗   ██╗ █████╗ ██╗   ██╗
-██╔══██╗██╔══██╗██║  ██║██║████╗  ██║██╔══██╗██║   ██║
-███████║██████╔╝███████║██║██╔██╗ ██║███████║██║   ██║
-██╔══██║██╔══██╗██╔══██║██║██║╚██╗██║██╔══██║╚██╗ ██╔╝
-██║  ██║██████╔╝██║  ██║██║██║ ╚████║██║  ██║ ╚████╔╝
-╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝
-
-███████╗██╗███╗   ██╗ ██████╗ ██╗  ██╗
-██╔════╝██║████╗  ██║██╔════╝ ██║  ██║
-███████╗██║██╔██╗ ██║██║  ███╗███████║
-╚════██║██║██║╚██╗██║██║   ██║██╔══██║
-███████║██║██║ ╚████║╚██████╔╝██║  ██║
-╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-singh0124/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityaabhinav2002@gmail.com) <a href="https://www.leetcode.com/adityaabhinav2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityaabhinav2002" height="30" width="40" /></a>
 </p>
