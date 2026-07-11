@@ -5,6 +5,20 @@
 # 💫 About Me:
 I am a Computer Science Engineering student passionate about Artificial Intelligence, Machine Learning, Cloud Computing, Cybersecurity, and Software Development. I build intelligent solutions and continuously explore emerging technologies.<br><br><br>
 
+ █████╗ ██████╗ ██╗  ██╗██╗███╗   ██╗ █████╗ ██╗   ██╗
+██╔══██╗██╔══██╗██║  ██║██║████╗  ██║██╔══██╗██║   ██║
+███████║██████╔╝███████║██║██╔██╗ ██║███████║██║   ██║
+██╔══██║██╔══██╗██╔══██║██║██║╚██╗██║██╔══██║╚██╗ ██╔╝
+██║  ██║██████╔╝██║  ██║██║██║ ╚████║██║  ██║ ╚████╔╝
+╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝
+
+███████╗██╗███╗   ██╗ ██████╗ ██╗  ██╗
+██╔════╝██║████╗  ██║██╔════╝ ██║  ██║
+███████╗██║██╔██╗ ██║██║  ███╗███████║
+╚════██║██║██║╚██╗██║██║   ██║██╔══██║
+███████║██║██║ ╚████║╚██████╔╝██║  ██║
+╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-singh0124/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityaabhinav2002@gmail.com) <a href="https://www.leetcode.com/adityaabhinav2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityaabhinav2002" height="30" width="40" /></a>
@@ -16,31 +30,4 @@ I am a Computer Science Engineering student passionate about Artificial Intellig
 ![](https://github-readme-stats.shion.dev/api?username=AbhinavSingh0124&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=AbhinavSingh0124&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AbhinavSingh0124&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-```text
-......:::----::::   .:---:::::::... ............                          ....::
-:::
-:::
-.......::::::::::.  .::-:::......................  ::------==-           .:-:-::
-.......::::::::::::..............................  .-==-==---:           .::::-:
-.......:::::::::::::::...........................  .--::::::::           .::::-:
-.......::::::::::::::::::........................  .-::-:::::.           .::::-:
-.......::::::::::::::::::::::.::.....:::::.......  .:::-:::::.           .::::-:
-.......::::::::::::::::::::::::::-=++***++++==-..  .:::-:::::.           .::::::
-.......::::::::::::::::::::::::=**###%######%**-.  .:::-:::::.           .......
-.......:::::::::::::::::::::::=**#####****#####*-  .::::......           .......
-.......:::::::::::::::::::::::+###**++=----==++=:  ...........           .......
-......::::::::::::::::::::::::***++==----===--:..  ..........            ....
-:::
--------:::::::::::::::::::::::====-------++++-==- ...........            ..
----:::::::::::::::::::::::::::-=------------==-:.....::......            ..
-------------------------:::::::==-==-------==+-....:::::..:--.......::.
-------------------------::.::-=+=-===++=======:....:---:::---.--------:
-=======================-:::--+**+-===++**++==:.....::::::::--.--------:
-+++++=============+++*****##+++**+=====++*#*=:....:-======++=.:::::::..
-++++++==+**********#######%#***+*%*====++%##****+=:-========-
-+++=====#%##*****###%%%%%%%#*****##+==+*%%##***%%##=--==--==-
-##*==+==#%##%%####%%%%%%%%%******#%%#*#@%*#****#%%%#--=---==:
-%##==++=#%##%%###%%%%%%%%%%**#****#%%%#%**#*****%%%%+-==-===:
-```
 
